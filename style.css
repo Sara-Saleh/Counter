@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  .container h1{
+    margin-bottom: 40px;
+    font-size: 30px;
+  }
+  .container #span {
+    font-size: 30px;
+  }
+  
+  .button-container {
+    text-align: center;
+  }
+  
+  .button-container button {
+    background-color: white;
+    font-size: 18px;
+    margin: 5px;
+  
+  }
+  
+  .button-container button:hover{
+    background-color: black;
+    color: white;
+  }
+  
